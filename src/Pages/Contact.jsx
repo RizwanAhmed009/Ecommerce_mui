@@ -71,7 +71,7 @@ const Contact = () => {
                 {" "}
                 <TableCell>
                   <CallIcon sx={{ color: "green", pt: 1 }} />
-                  123456789
+                  0341-9220114
                 </TableCell>{" "}
               </TableRow>
             </TableBody>
